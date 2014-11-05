@@ -38,7 +38,7 @@ Ghost 0.5 (Latest is recommended).
 **Step 3**:
 Use the sqllite database manager which you are family with, open up the database, and add the name of app to `activeApps` field in the `settings` table.
 
-In this case, the app'name is `slideshow`, the value of `activeApps` should be `["slideshow"]`. Double quotes are required.
+In this case, the app's name is `slideshow`, the value of `activeApps` should be `["slideshow"]`. Double quotes are required.
 
 ![Install app Slideshow](http://w3ball.com/content/images/2014/11/slideshow-install-up.png)
 
