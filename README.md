@@ -3,7 +3,7 @@
 This app will display a Slideshow widget that images are gotten from a post.
 
 
-![Slideshow app for Ghost - screenshot](/content/images/2014/11/slideshow-screenshot.jpg)
+![Slideshow app for Ghost - screenshot](http://w3ball.com/content/images/2014/11/slideshow-screenshot.jpg)
 
 
 ## Features?
