@@ -14,13 +14,14 @@ This app will display a Slideshow widget that images are gotten from a post.
 + Lo-Dash `lodash`.
 
 
-## Download
-
-[Download Slideshow widget v0.0.1 for Ghost](http://w3ball.com/download-a-slideshow-widget-for-your-ghost-blog-why-not/)
-
 ## Compatibility
 
 Ghost 0.5 (Latest is recommended).
+
+
+## Download
+
+[Download Slideshow widget v0.0.1 for Ghost](http://w3ball.com/download-a-slideshow-widget-for-your-ghost-blog-why-not/)
 
 
 ## Installing
