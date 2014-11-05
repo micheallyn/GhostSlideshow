@@ -64,7 +64,7 @@ Open your theme file (`default.hbs`, `index.hbs`, `page.hbs`, etc.) depends on w
 
 **Syntax**: 
 
-    {{slideshow slug="slug-of-post" mode="mode-fade"}}
+    {{slideshow slug="slug-of-post" classes="mode-fade"}}
 
 For example: If I want to display Slideshow widget on Homepage then I will edit `index.hbs` or `home.hbs`. 
 
