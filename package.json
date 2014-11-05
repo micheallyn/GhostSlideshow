@@ -1,0 +1,32 @@
+{
+    "name": "slideshow",
+    "version": "0.0.1",
+    "description": "Slideshow widget for Ghost blog",
+    "author": "Micheal Lyn",
+    "homepage"    : "http://w3ball.com",
+
+    "licenses" : [
+    {
+        "type": "MIT"
+    }
+    ],
+    "main": "index.js",
+    "engines": {
+        "node": "0.10.*"
+    },
+    "engineStrict": true,
+    "dependencies": {
+        "ghost-app": "~0.0.3",
+        "lodash": "~2.4.1"
+    },
+    "devDependencies": {
+    },
+    "ghost": {
+        "permissions": {
+            "filters": ["ghost_head", "ghost_foot"],
+            "api.posts": ["read", "browse"],
+            "api.settings": ["read"],
+            "helpers": ["create", "edit", "register", "registerAsync"]
+        }
+    }
+}
