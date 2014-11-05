@@ -3,10 +3,15 @@
 This app will display a Slideshow widget that images are gotten from a post.
 
 
+![Slideshow app for Ghost - screenshot](/content/images/2014/11/slideshow-screenshot.jpg)
+
+
 ## Features?
 + Load Image Slideshow from a specified post via it's slug by just a call.
 + Slideshow modes: Cross-fade, Slide.
 + Display options: show Image description, show control (Next, Previous, Pause), show slide navigation.
++ CSS3 effects
++ Responsive
 
 
 ## Dependencies
