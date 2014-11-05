@@ -82,6 +82,10 @@ For full options of above syntax, please visit this post for more details: [Down
 Copyright (c) 2014 W3Ball.com - Released under the MIT license.
 
 
+## Credits
+This app use javascript library [SequenceJS](http://sequencejs.com/)
+
+
 ## Problem?
 Please feel free to leave a comment for problems you got on [W3Ball.com](http://w3ball.com/download-a-slideshow-widget-for-your-ghost-blog-why-not/)
 
